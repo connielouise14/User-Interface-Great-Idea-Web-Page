@@ -1,0 +1,73 @@
+https://github.com/connielouise14/User-Interface.git
+
+<!--1. fork this codepen so that you have a copy on your account -->
+<!--2. Add HTML and CSS to make the codepen look like the example: https://codepen.io/BritHemming/full/jONmxOm  - note that you can change the colours but everything else must look the same -->
+<!-- 3. include the link to this completed codepen at the top of today's file first-lastname.txt --> 
+<!-- 4. when you are finished - answer the review questions at the bottom of this file -->
+Learning How to Code
+ Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident aperiam earum mollitia enim pariatur atque asperiores, deserunt fuga iure distinctio! Amet iste facilis odio rerum maiores neque laboriosam non aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit eius officia reprehenderit dicta molestiae, excepturi inventore aut officiis! Perspiciatis, molestias tempora et nesciunt amet sint blanditiis eos voluptatibus ut facilis!
+
+I'm a title
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus minima porro, aspernatur esse iure quas vero totam ea cupiditate numquam accusamus enim, eius neque molestiae minus. Aliquam non repudiandae, sunt!
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto illo expedita ducimus incidunt similique voluptatum, error minus tenetur accusamus modi perferendis libero inventore quo, tempora. Repellendus quam eligendi, aliquid nobis.
+
+This is another section
+ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto possimus, reiciendis consequatur inventore mollitia ipsa sed quibusdam! Aut nemo voluptatibus modi iste repudiandae ea beatae suscipit. Officia omnis laudantium quasi.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla, ratione doloribus nam officia reiciendis eligendi architecto maxime quisquam unde non, illo libero iure aut ad consequuntur animi modi, recusandae voluptatum!
+
+<img src="https://unsplash.it/200/200">
+<img src="https://unsplash.it/200/200">
+<img src="https://unsplash.it/200/200"> 
+<img src="https://unsplash.it/200/200">
+
+
+<!-- reveiw questions to Submit in today's file firt-lastname.txt --> 
+<!--
+Copy the questions below into the firt-lastname.txt file on your github repo - answer each question and then push your changes. 
+
+    What is Semantic HTML? A Semantic HTML is that it introduces the item to the page.
+    2. What is HTML used for? HTML is used to create web pages
+    3. What is an attribute and where do we put it? Attributes provide a way of associating information with code in a declarative way.It is put after the equal sign of a code   
+    4. What is the h1 tag used for? How many times should I use it on a page? An h1 tag is used to describe the title tag of a very important tag. There should only be 1 h1 on a page of code.
+    5. Name two tags that have required attributes. Name and Anchor tags.
+    6. What do we put in the head of our HTML document? You put a header at the head of a HTML document.
+    7. What is an id? id attribute provides a unique identifier for an element within the document
+    8. What elements can I add an id to? To create a hyperlink.
+    9. How many times can I use the same id on a page? multiple times
+    10. What is a class? It is an object oriented program.
+    11. What elements can I add a class to? used to create objects, variables, functions, or methods.
+    12. How many times can I use the same class on a page? You can use class multiple times on the same page.
+    13. How do I get my link to open in a new tab? You use an anchor tag
+    14. What is the alt attribute used for? If an image cannot be displayed for some reason, the ALT attribute provides alternative text to display instead of the image 
+    15. How do I reference an id? It uses an HTML element, followed by a "#", and finally ID's name
+    16. What is the difference between a section and a div? The section tag provides a more semantic syntax for HTML. div is a generic tag for a section. 
+    17. What is CSS used for? It is used to format the look and format of a web page, setting design elements such as the basic layout, colors, and fonts.
+    18. How to we select an element? Example - every h2 on the page. You use a hash-tag # in front of the element.
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one.An ID always has a higher specificity than a class. You might use a class when you are going to use the same style like all paragraphs on the page. ID is more likely to be used once like in the h1 heading. 
+    20. How do we select classes in CSS? You use the period . and the name of the class. 
+    21. How do we select a p element with a single class of “human””? <p class=#"">
+    22. What is a parent child selector? When would this be useful? a parent child selector is when any element>element selector is selected. This is useful when you want the child to have the same style as the parent code. 
+    23. How do you select all links within a div with the class of sidebar? #sidebar
+    24. What is a pseudo selector? A pseudo-class is a keyword added to a selector that specifies a special state of the selected element
+    25. What do we use the change the spacing between lines? you could use the line-height property
+    26. What do we use to change the spacing between letters? You could use Letter-spacing property
+    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize? text-transform: uppercase; text-transform: lowercase; text-transform: capitalize
+    28. How do I add a 1px border around my div that is dotted and black? border: 1px dotted black;
+    29. How do I select everything on the page? Press Ctrl + A
+    30. How do I write a comment in CSS? Comments are left inside * *
+    31. How do I find out what file I am in, when I am using the command line? Find the directory that contains the file you want to open. Type cd and the path for the directory you want to open. After the path matches the one in the search, type or copy and paste the name of the file on the command line. Press Enter and the file will open using its default application.
+    32. Using the command line - how do I see a list of files/folders in my current folder? >list.txt
+    33. How do I remove a file via the command line? Why do I have to be careful with this? rm -R command; you have to be careful because you are deleting not only that folder but any folder associated with it.
+    34. Why should I use version control? Version Control means keeping the copies of your code or files from every stage in its lifecycle. Version control system allows us to manage all versions of our code with representing single version at a time
+    35. How often should I commit to github? It depends on the nature of the work. 
+    36. What is the command we would use to push our repo up to github? git add .; git commit -m "Whatever message you want here"; git add origin https://github.com/username/myproject.git
+    37. Walk me through Lambda's git flow. You create your own version of repo(fork). Then you will collborate with TL, then clone your work, create a branch in your name, complete the work, then compare and pull the work from Git Hub
+
+Stretch Questions
+
+    1. What is the difference between an inline element and a block element?
+    2. What happens when an element is positioned absolutely? 
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    5. In your own words, explain the box model. What is the fix for the box model?
